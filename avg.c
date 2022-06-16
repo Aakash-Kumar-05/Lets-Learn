@@ -12,7 +12,7 @@ int main()
         scanf("%d",&k);
         sum = k + sum;
         
-        
+        printf("sum is = %d\n",sum);
     }
     printf("sum is = %d\n",sum);
     avg = sum/j;
